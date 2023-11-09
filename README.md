@@ -8,3 +8,5 @@ Blindar o código com TDD
 
 ## Cobertura dos testes
 Ao final do teste foi realizado o Code Coverage onde foi atigindo em 100%
+
+![Texto Alternativo](https://github.com/matheus-assilva/teste-unitarios-TDD-projeto-DIO/blob/main/Imagem/CodeCoverage.png)
